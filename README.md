@@ -6,7 +6,9 @@ https://github.com/developer-vivek/My-Operating-Systems-/assets/85994908/f361afd
 
 # Operating Systems Shown Above:-
 (1) Arch
+
 (2) Kde-Neon 
+
 (3) Windows 
 
 
