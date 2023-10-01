@@ -2,11 +2,7 @@
 This repository showcases my currently running Operating Systems on my laptop 
 
 # Have A Look
-Laptop View
-https://github.com/developer-vivek/My-Operating-Systems-/assets/85994908/f361afd4-6023-470d-9213-f32f8b15e113
-
-Normal View
-https://github.com/developer-vivek/My-Operating-Systems/assets/85994908/0e38ed62-b16e-4de1-8671-24f1dfd0837
+https://github.com/developer-vivek/My-Operating-Systems/assets/85994908/48d34ca8-5f56-4064-8121-468de1cfe0a8
 
 # Operating Systems Shown Above:-
 (1) Arch
